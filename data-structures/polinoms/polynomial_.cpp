@@ -1,5 +1,5 @@
 /**
- * @file polynomial.cpp
+ * @file polynomial_.cpp
  * @brief This file contains a template class for polynomial operations.
  * The Polynomial class supports addition, subtraction, multiplication, and evaluation of polynomials.
  */
